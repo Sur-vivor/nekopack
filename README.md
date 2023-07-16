@@ -1,11 +1,15 @@
 # Catuserbot-heroku
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-confused%2Fnekopack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgcatub%2Fnekopack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TgCatUB/nekopack)
 
-This is just heroku support source 
-Main source is here [main source](https://github.com/sandy1709/catuserbot) fork and give star to that repo 
+This repo is only for deploying purpose if you want to look into main source code head to [main source](https://github.com/tgcatub/catuserbot) and fork and give star to these repos 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSur-vivor%2Fnekopack&template=https%3A%2F%2Fgithub.com%2FSur-vivor%2Fnekopack)
+
+To be safe fork this repo and then press deploy button from the forked repo 
+
+Fork Deploy is highly recommended
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
